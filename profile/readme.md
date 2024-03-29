@@ -1,7 +1,7 @@
 ## Restocking Proof of Developers Network (RPoDN)
 [Twitter](https://twitter.com/RestockingPoD)
 
-^ AVS System using Blockless x EigenLayer
+> AVS System using Blockless x EigenLayer
 
 An innovative initiative designed to sustainably support and recognize the contributions of developers in the blockchain ecosystem. It operates on a principle of "restocking" resources, including knowledge, skills, and tokens, to ensure continuous growth and development within the community. The network focuses on providing developers with the tools, education, and recognition they need to excel in creating and maintaining blockchain technologies.
 
